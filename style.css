@@ -1,0 +1,41 @@
+body {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	background-color:  #CCCCCC;
+}
+
+.pixel {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-color: white;
+	border: solid #E5E5E5 1px;
+	border-bottom: 0px;
+}
+
+.color {
+	margin: 5px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+}
+
+#bord {
+
+	width: 80%;
+	background-color: #E5E5E5;
+	margin-top: 30px;
+	border-radius: 30px;
+}
+
+#holst {
+	padding-top: 30px;
+}
+
+#paintsPanel {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+}
