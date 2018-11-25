@@ -22,8 +22,11 @@ body {
 	border-radius: 10px;
 }
 
-#bord {
+.color:hover {
+	border: solid black 1px;
+}
 
+#bord {
 	width: 80%;
 	background-color: #E5E5E5;
 	margin-top: 30px;
