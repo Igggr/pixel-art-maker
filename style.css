@@ -5,6 +5,11 @@ body {
 	background-color:  #CCCCCC;
 }
 
+button {
+	margin: 20px;
+	border-radius: 20px;
+}
+
 .pixel {
 	display: inline-block;
 	width: 20px;
@@ -12,6 +17,7 @@ body {
 	background-color: white;
 	border: solid #E5E5E5 1px;
 	border-bottom: 0px;
+	border-top: 0px;
 }
 
 .color {
